@@ -16,7 +16,7 @@ header {
   width      : 980px;
   height     : 80px;
   margin     : 0 auto;
-  background : rgb(65, 61, 56):
+  background : rgb(65, 61, 56);
 }
 
 header h1 {
@@ -24,7 +24,7 @@ header h1 {
   color: rgb(175, 181, 179);
 }
 
-#header {
+/*#header {
   width:100%;
   heigth :25px;
-}
+}*/
