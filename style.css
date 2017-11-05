@@ -7,16 +7,16 @@
 
 /*Style Awal Untuk Body*/
 body {
-  width            : 98%;
-  margin           : 0 auto;
-  background-color : rgb(175, 181, 179);
+  width      : 98%;
+  margin     : 0 auto;
+  background : rgb(175, 181, 179);
 }
 
 header {
-  width            : 98%;
-  height           : 80px;
-  margin           : 0 auto;
-  background-color : rgb(65, 61, 56):
+  width      : 98%;
+  height     : 80px;
+  margin     : 0 auto;
+  background : rgb(65, 61, 56):
 }
 
 header h1 {
