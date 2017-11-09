@@ -9,7 +9,7 @@
 body {
   width      : 980px;
   margin     : 0 auto;
-  background : #fff;
+  background : rgb(255, 255, 255);
 }
 
 header {
@@ -22,7 +22,7 @@ header {
 header h1 {
   text-align : center;
   padding:25px;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 /*#header {
