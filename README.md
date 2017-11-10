@@ -1,2 +1,3 @@
 # datrosumendong.github.io
-Ini adalah project pertama saya selama belajar di Sekolah Koding
+
+Ini adalah hasil karya saya yang pertama selama belajar di sekolahkoding
