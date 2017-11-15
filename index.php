@@ -6,7 +6,6 @@
     <link tipy="text/css" rel="stylesheet" href="style.css">
   </head>
   <body>
-    <?php require_once "db.php"; ?>
     <!-- NOTE: Ini adalah project pertama saya tentang website komunitas music-->
 
     <!-- NOTE: Membungkus Header dan Nav di dalam satu box -->
@@ -276,7 +275,7 @@
       </div>
     </div>
     <footer>
-      <p> &#169 Copyright 2018 by. Datros Sumendong </p>
+      <p> &#169 Copyright 2018 by. Datros Sumendong <?php require_once "db.php"; ?></p>
     </footer>
   </body>
 </html>
