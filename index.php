@@ -6,6 +6,7 @@
     <link tipy="text/css" rel="stylesheet" href="style.css">
   </head>
   <body>
+    <?php require_once "db.php"; ?>
     <!-- NOTE: Ini adalah project pertama saya tentang website komunitas music-->
 
     <!-- NOTE: Membungkus Header dan Nav di dalam satu box -->
