@@ -1,0 +1,66 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:sans-serif;
+}
+
+body{
+  max-width:100%;
+  margin:0 auto;
+  align-items:center;
+  display:flex;
+  background-size:cover;
+}
+
+#center{
+  width:80%;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  margin:0 auto;
+}
+
+#center:hover{
+  cursor:pointer;
+}
+
+#center>img{
+  width:30%;
+  border-radius:50%;
+  margin:0 auto;
+  border:10px solid rgb(76, 78, 79);
+  transition:border 0.5s;
+  opacity:0.80;
+}
+
+#center>img:hover {
+  border:10px solid rgb(135, 138, 139);
+  opacity:1;
+}
+
+#center h1, p{
+  width:80%;
+  margin:0 auto;
+  padding:2px;
+  text-align:center;
+  color:rgb(98, 104, 108);
+}
+
+#center footer p{
+  width:100%;
+  margin:0 auto;
+}
+
+#icon-sosmed{
+  width:20%;
+  margin:0 auto;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  align-items:center;
+}
+
+#icon-sosmed img{
+  width:40px;
+}
