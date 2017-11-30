@@ -8,9 +8,9 @@
 body{
   max-width:100%;
   margin:0 auto;
-  align-items:center;
   display:flex;
   flex-direction:column;
+  align-items:center;
   background-size:cover;
 }
 
@@ -29,7 +29,8 @@ body{
 }
 
 #center>img{
-  width:40%;
+  width:250px;
+  max-width:100%;
   border-radius:50%;
   margin:0 auto;
   border:10px solid rgb(76, 78, 79);
