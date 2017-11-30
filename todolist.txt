@@ -1,6 +1,0 @@
-TODO Yang harus saya kerjakan awal adalah melihat kembali tutorial mengenai HTML dan CSS biar semakin paham
-NOTE Tentukan Nama Websitenya dan Apa Tujuan Dari Website Itu Seperti Pelajaran di Sekolah Koding
-NOTE Desainlah website yang tersebut dengan membuat desain kasarnya terlebih dahulu dengan photoshop atau digambar dalam selembar kertas
-NOTE Mulailah merancang struktur html-nya
-NOTE Setelah selesai buatlah design style css-nya
-NOTE Jika sudah selesai PUSH hasil project tersebut ke repository Github untuk dimasukan ke mading sekolah koding
